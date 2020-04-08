@@ -1,10 +1,11 @@
-"applinks": {
-    "apps": [],
-    "details": [
-    {
-      "appID": "6M3NJFN6P8.cn.softbank.mbank.yxmsyh.test",
-      "paths": ["*"]
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "6M3NJFN6P8.cn.softbank.mbank.yxmsyh.test",
+                "paths": ["*"]
+            }
+        ]
     }
-    ]
-  }
 }
